@@ -16,6 +16,8 @@ Media Upload is responsible for tackling the exchange of media in between users.
 ![Telegram Deployment Diagram](./diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg)
 ![Telegram Deployment Diagram Code](./diagrams/src/telegram/deployment-diagram.puml) There are User Devices and a Third-Party Server, which are connected to Telegram's Global Infrastructure. The latter consists of the Edge/Construction Layer, the Compute Cluster, the In-Memory Cluster, Storage Cluster, and an Event Cluster.
 ## Assumptions
-I assumed the notifications are sent through the same system, be it on mobile or desktop. I also assumed the Third party Server is not a part of Telegram's Global Infrastructure.
+- I assumed the notifications are sent through the same system, be it on mobile or desktop.
+- I also assumed the Third party Server is not a part of Telegram's Global Infrastructure.
 ## Open questions
-How can people send voice messages? How do pictures which are invisible at first get computed?
+- How can people send voice messages?
+- How do pictures which are invisible at first get computed?
