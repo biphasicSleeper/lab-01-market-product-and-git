@@ -1,6 +1,12 @@
 # My role and skills
-## My role
-My role is Frontend Developer. I chose it because I like creating UI and I've always enjoyied seeing intuitive website interfaces.
+## My chosen role
+- My role is Frontend Developer. I chose it because I like creating UI and I've always enjoyied seeing intuitive website interfaces.
+- What is HTTP? - beginner
+- What is Domain Name? - beginner
+- What is hosting? - beginner
+- React: React is a JavaScript tool from Facebook for building UIs, especially for single-page apps.
+- Vite: Vite is a modern build tool using native ES modules for instant server starts and fast Hot Module Replacement.
+- Lighthouse: Lighthouse is an open-source, automated tool for improving the quality of web pages.
 ## Skills I already have
 - What is HTTP? - beginner
 - What is Domain Name? - beginner
@@ -10,7 +16,7 @@ My role is Frontend Developer. I chose it because I like creating UI and I've al
 - Vite: Vite is a modern build tool using native ES modules for instant server starts and fast Hot Module Replacement.
 - Lighthouse: Lighthouse is an open-source, automated tool for improving the quality of web pages.
 The most difficult skill to acquire will probably be React.
-## Market snapshot
+## Job market snapshot
 - Frontend-разработчик Angular: https://kazan.hh.ru/vacancy/130042067?query=front-end+developer&hhtmFrom=vacancy_search_list
   * Отлично знаете JavaScript и у вас есть опыт коммерческой разработки от 4-х лет
   * Есть опыт работы с Angular и Git
@@ -51,7 +57,7 @@ The most difficult skill to acquire will probably be React.
 1. Dart/Flutter (in Dart / Flutter разработчик (frontend))
 2. Electron (in Frontend / Desktop Developer (Electron))
 I think those skills represent niche requirements.
-## My skills and market demands
+## Personal reflection
 I have a lot of gaps in my knowledge and practical skills and the knowledge and skills required by the market. While I possess surface knowledge of how the internet works, I cannot build a website frontend by myself yet. I know how the internet works, how websites should be build (how the must look for the user to be able to navigate it easily). However, I do not have the required skills to actually bring my throughts and ideas to reality. I will have to study more to be able to reach my goals.
 ## Skills that I can improve
-To reach my goal, I need to improve my programming language skills, my understanding of the internet, and learn some programs I can use to help with frontend development. These are the beginning steps for learnign frontend development starting from my level. I can use the resources available on the internet to study. I can also find some specialists in the field who provide teaching services. As a last resort, I can try to read some books on the aforementioned subjects.
+To reach my goal, I need to significantly improve my programming language skills, deepen my understanding of how the internet works, and learn to use various tools and programs that support frontend development. These are the foundational steps required for someone at my current level to begin learning frontend development in a structured and effective way. In particular, I need to become more comfortable with technologies such as HTML, CSS, and JavaScript, while also understanding concepts like web browsers, servers, hosting, and responsive design. I can make use of the many resources available on the internet, including tutorials, online courses, documentation, videos, and interactive coding platforms, to gradually build both theoretical knowledge and practical experience. In addition, I can seek guidance from specialists or instructors in the field who provide teaching or mentoring services, as this could help me learn more efficiently and avoid common mistakes. As a final option, I can also study books related to programming, web development, and frontend design to gain a more in-depth and structured understanding of these subjects.
